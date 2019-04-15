@@ -1,0 +1,3 @@
+rootProject.name = 'TraderClient'
+
+include ':app'
